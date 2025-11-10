@@ -32,7 +32,7 @@ Passionate about design, development, and everything that makes the web feel ali
 
 ### 🧠 Skills Overview  
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Python, Node.js *(learning)*  
+- **Backend:** Python, Node.js   
 - **Tools:** Git, GitHub, VS Code  
 - **Design:** Figma, Photoshop, Illustrator  
 
